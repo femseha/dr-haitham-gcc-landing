@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://femseha.github.io/dr-haitham-gcc-landing/sitemap.xml
