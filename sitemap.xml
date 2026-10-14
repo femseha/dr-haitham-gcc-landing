@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://femseha.github.io/dr-haitham-gcc-landing/</loc></url>
-  <url><loc>https://femseha.github.io/dr-haitham-gcc-landing/privacy.html</loc></url>
-  <url><loc>https://femseha.github.io/dr-haitham-gcc-landing/abortion-pills/</loc></url>
-  <url><loc>https://femseha.github.io/dr-haitham-gcc-landing/saudi-arabia/</loc></url>
-  <url><loc>https://femseha.github.io/dr-haitham-gcc-landing/uae/</loc></url>
-  <url><loc>https://femseha.github.io/dr-haitham-gcc-landing/kuwait/</loc></url>
-  <url><loc>https://femseha.github.io/dr-haitham-gcc-landing/bahrain/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://femseha.github.io/dr-haitham-gcc-landing/</loc>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/banner.webp</image:loc><image:title>حبوب إجهاض الحمل - دليل المعلومات الدوائية وصحة المرأة</image:title></image:image>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/site-logo.webp</image:loc><image:title>شعار دليل المعلومات الدوائية وصحة المرأة</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://femseha.github.io/dr-haitham-gcc-landing/privacy.html</loc>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/site-logo.webp</image:loc><image:title>شعار دليل المعلومات الدوائية وصحة المرأة</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://femseha.github.io/dr-haitham-gcc-landing/abortion-pills/</loc>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/banner.webp</image:loc><image:title>حبوب إجهاض الحمل - معلومات السلامة الدوائية</image:title></image:image>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/site-logo.webp</image:loc><image:title>شعار دليل المعلومات الدوائية وصحة المرأة</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://femseha.github.io/dr-haitham-gcc-landing/saudi-arabia/</loc>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/banner.webp</image:loc><image:title>معلومات حبوب إجهاض الحمل في السعودية</image:title></image:image>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/site-logo.webp</image:loc><image:title>شعار دليل المعلومات الدوائية وصحة المرأة</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://femseha.github.io/dr-haitham-gcc-landing/uae/</loc>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/banner.webp</image:loc><image:title>معلومات صحية عن الأدوية في الإمارات</image:title></image:image>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/site-logo.webp</image:loc><image:title>شعار دليل المعلومات الدوائية وصحة المرأة</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://femseha.github.io/dr-haitham-gcc-landing/kuwait/</loc>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/banner.webp</image:loc><image:title>معلومات صحية عن الأدوية في الكويت</image:title></image:image>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/site-logo.webp</image:loc><image:title>شعار دليل المعلومات الدوائية وصحة المرأة</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://femseha.github.io/dr-haitham-gcc-landing/bahrain/</loc>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/banner.webp</image:loc><image:title>معلومات صحية عن الأدوية في البحرين</image:title></image:image>
+    <image:image><image:loc>https://femseha.github.io/dr-haitham-gcc-landing/assets/site-logo.webp</image:loc><image:title>شعار دليل المعلومات الدوائية وصحة المرأة</image:title></image:image>
+  </url>
 </urlset>
